@@ -1,0 +1,27 @@
+{
+  "name": "arr-diff-g",
+  "version": "1.0.0",
+  "description": "arr",
+  "main": "index.js",
+  "scripts": {
+    "standard:fix": "standard --fix ./index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targeral/arr-diff.git"
+  },
+  "keywords": [
+    "arr"
+  ],
+  "author": "targeral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/targeral/arr-diff/issues"
+  },
+  "homepage": "https://github.com/targeral/arr-diff#readme",
+  "devDependencies": {
+    "mocha": "^5.0.5",
+    "standard": "^11.0.1"
+  }
+}
